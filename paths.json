@@ -1,9 +1,10 @@
 {
   "mappings": [
-    "/:/"
+    "/content/demo-site/:/"
   ],
   "includes": [
-    "/content/",
-    "/content/dam/"
+    "/content/demo-site",
+    "/content/dam/",
+    "/content/forms"
   ]
 }
